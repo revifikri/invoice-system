@@ -1,0 +1,7 @@
+easyocr
+python-dotenv
+flask
+numpy
+groq
+langchain
+langchain-groq
